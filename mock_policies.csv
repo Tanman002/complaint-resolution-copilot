@@ -1,0 +1,10 @@
+policy_id,category,topic,guidance
+CC01,credit_card,Lost or stolen card,Mock policy: Ask the customer to use the bank's secure channel to block a lost or stolen credit card. A service agent must verify the account before discussing transactions. Do not promise reimbursement.
+CC02,credit_card,Disputed credit card charge,"Mock policy: Record the transaction date, merchant and amount through a secure process. Route the dispute to a trained card specialist. Do not state that the charge will be reversed."
+CC03,credit_card,Credit card payment or fee,Mock policy: Ask a card specialist to review the payment posting date and fee details after account verification. Do not promise that a fee will be waived.
+BA01,bank_account,Unrecognized account transaction,Mock policy: Direct the customer to a secure channel to report an unrecognized bank account transaction. An authorized agent must verify the account and investigate. Do not promise recovery of funds.
+BA02,bank_account,Account access,"Mock policy: For login or account access problems, direct the customer to the bank's secure recovery process. Never ask for a password, PIN or one-time passcode in a complaint response."
+BA03,bank_account,Deposit or transfer delay,"Mock policy: After secure verification, an account specialist may check the deposit or transfer status and explain the next investigation step. Do not guarantee a completion time."
+MT01,mortgage,Mortgage payment posting,"Mock policy: After secure verification, a servicing specialist should review the payment record and posting date. Do not confirm that an alleged error occurred before the review."
+MT02,mortgage,Mortgage statement or balance,"Mock policy: Direct questions about a mortgage statement, balance or escrow item to a servicing specialist for a record review. Do not quote an account-specific balance without verification."
+MT03,mortgage,Mortgage hardship request,Mock policy: Route a request for mortgage payment assistance to a trained servicing specialist to discuss available options after verification. Do not claim that an option has been approved.
